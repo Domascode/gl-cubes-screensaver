@@ -1,0 +1,5 @@
+C:/Users/Domas Se/Documents/C++ Projects/OpenGL/build/CMakeFiles/glad.dir
+C:/Users/Domas Se/Documents/C++ Projects/OpenGL/build/CMakeFiles/openglErrorReporting.dir
+C:/Users/Domas Se/Documents/C++ Projects/OpenGL/build/CMakeFiles/OpenGL.dir
+C:/Users/Domas Se/Documents/C++ Projects/OpenGL/build/CMakeFiles/edit_cache.dir
+C:/Users/Domas Se/Documents/C++ Projects/OpenGL/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libopenglErrorReporting.a CMakeFiles/openglErrorReporting.dir/src/openglErrorReporting.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libopenglErrorReporting.a
